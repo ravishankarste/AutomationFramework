@@ -1,2 +1,2 @@
 # AutomationFramework
-BDD framework using Gherkin features files and POM.
+BDD framework using Gherkin feature files and POM.
